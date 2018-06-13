@@ -1,43 +1,43 @@
 @font-face{
     font-family: 'Fira Code';
-    src: url(/accessible-scala-web/FiraCode-Light.eot);
-    src: url(/accessible-scala-web/FiraCode-Light.eot) format('embedded-opentype'),
-         url(/accessible-scala-web/FiraCode-Light.woff2) format('woff2'),
-         url(/accessible-scala-web/FiraCode-Light.woff) format('woff'),
-         url(/accessible-scala-web/FiraCode-Light.ttf) format('truetype');
+    src: url(/accessible-scala-demo/FiraCode-Light.eot);
+    src: url(/accessible-scala-demo/FiraCode-Light.eot) format('embedded-opentype'),
+         url(/accessible-scala-demo/FiraCode-Light.woff2) format('woff2'),
+         url(/accessible-scala-demo/FiraCode-Light.woff) format('woff'),
+         url(/accessible-scala-demo/FiraCode-Light.ttf) format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face{
     font-family: 'Fira Code';
-    src: url(/accessible-scala-web/FiraCode-Regular.eot);
-    src: url(/accessible-scala-web/FiraCode-Regular.eot) format('embedded-opentype'),
-         url(/accessible-scala-web/FiraCode-Regular.woff2) format('woff2'),
-         url(/accessible-scala-web/FiraCode-Regular.woff) format('woff'),
-         url(/accessible-scala-web/FiraCode-Regular.ttf) format('truetype');
+    src: url(/accessible-scala-demo/FiraCode-Regular.eot);
+    src: url(/accessible-scala-demo/FiraCode-Regular.eot) format('embedded-opentype'),
+         url(/accessible-scala-demo/FiraCode-Regular.woff2) format('woff2'),
+         url(/accessible-scala-demo/FiraCode-Regular.woff) format('woff'),
+         url(/accessible-scala-demo/FiraCode-Regular.ttf) format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face{
     font-family: 'Fira Code';
-    src: url(/accessible-scala-web/FiraCode-Medium.eot);
-    src: url(/accessible-scala-web/FiraCode-Medium.eot) format('embedded-opentype'),
-         url(/accessible-scala-web/FiraCode-Medium.woff2) format('woff2'),
-         url(/accessible-scala-web/FiraCode-Medium.woff) format('woff'),
-         url(/accessible-scala-web/FiraCode-Medium.ttf) format('truetype');
+    src: url(/accessible-scala-demo/FiraCode-Medium.eot);
+    src: url(/accessible-scala-demo/FiraCode-Medium.eot) format('embedded-opentype'),
+         url(/accessible-scala-demo/FiraCode-Medium.woff2) format('woff2'),
+         url(/accessible-scala-demo/FiraCode-Medium.woff) format('woff'),
+         url(/accessible-scala-demo/FiraCode-Medium.ttf) format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face{
     font-family: 'Fira Code';
-    src: url(/accessible-scala-web/FiraCode-Bold.eot);
-    src: url(/accessible-scala-web/FiraCode-Bold.eot) format('embedded-opentype'),
-         url(/accessible-scala-web/FiraCode-Bold.woff2) format('woff2'),
-         url(/accessible-scala-web/FiraCode-Bold.woff) format('woff'),
-         url(/accessible-scala-web/FiraCode-Bold.ttf) format('truetype');
+    src: url(/accessible-scala-demo/FiraCode-Bold.eot);
+    src: url(/accessible-scala-demo/FiraCode-Bold.eot) format('embedded-opentype'),
+         url(/accessible-scala-demo/FiraCode-Bold.woff2) format('woff2'),
+         url(/accessible-scala-demo/FiraCode-Bold.woff) format('woff'),
+         url(/accessible-scala-demo/FiraCode-Bold.ttf) format('truetype');
     font-weight: 700;
     font-style: normal;
 }/* BASICS */
